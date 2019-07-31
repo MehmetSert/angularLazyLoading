@@ -1,3 +1,5 @@
+Makalemizden adım adım nasıl yapıldığını öğrenebilirsiniz: https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi
+
 # AngularLazyLoading
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
